@@ -28,11 +28,11 @@ My background is in **systems programming, operating systems internals, and cybe
 
 I'm working through a structured plan to transition from academia into industry software engineering by mid-2027. Right now I'm focused on:
 
-- Sharpening data structures & algorithms (LeetCode, working through the easy/medium tier)
+- Sharpening data structures & algorithms 
 - Getting hands-on with cloud infrastructure (AWS, Docker)
 - Building a portfolio of systems-focused projects
 
-My first portfolio project will be a **Linux process monitor** — a CLI tool that reads `/proc`, tracks resource usage per process, and exposes the data via a clean terminal UI. It plays directly to my OS background.
+My first portfolio project will be a **Linux process monitor** — a CLI tool that reads `/proc`, tracks resource usage per process, and exposes the data via a clean terminal UI. 
 
 ---
 
@@ -50,5 +50,5 @@ My first portfolio project will be a **Linux process monitor** — a CLI tool th
 
 ### 📬 Get in touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/nikolas-morgan-2536b7193)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:nmorgan5055@gmail.com)
