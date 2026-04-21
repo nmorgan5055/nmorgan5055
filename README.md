@@ -2,7 +2,7 @@
 
 Software engineer with a background in systems programming, operating systems, and cybersecurity engineering. Currently transitioning from academia into industry, with a focus on systems-level and backend software development.
 
-Previously built red team tooling and embedded systems software at the Air Force Research Laboratory. Now teaching Operating Systems and Systems Programming at Louisiana Tech while building toward a full-time engineering role.
+Previously built red team tooling and embedded systems software at the Air Force Research Laboratory. Now teaching Operating Systems and Systems Programming at Louisiana Tech.
 
 ---
 
